@@ -7,7 +7,7 @@ Creating repo, code, terminal, directory creation/navigation using the keyboard 
 - Creating & editing files and directories
 - Code and Git Commands
 
-### Not su easy without a mouse:
+### Not so easy without a mouse:
 - Navigate website using tab
 
 ### Anything we noticed:
